@@ -10,6 +10,7 @@ namespace VsGitTest
             int b;
             int c;
             int d;
+            double A;
         }
     }
 }
