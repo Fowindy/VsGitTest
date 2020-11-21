@@ -9,8 +9,6 @@ namespace VsGitTest
             int a;
             int b;
             int c;
-            int d;
-            double A;
         }
     }
 }
