@@ -8,6 +8,7 @@ namespace VsGitTest
         {
             int a;
             int b;
+            int c;
         }
     }
 }
